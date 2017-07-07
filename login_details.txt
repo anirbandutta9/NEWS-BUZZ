@@ -1,0 +1,18 @@
+all login details for NEWS_BUZZ --->
+
+
+Super-Admin:->
+
+username: superadmin
+password: superadmin
+
+Admin:->
+
+username: admin
+password: adminpass
+
+User:->
+
+username: user
+password: userpass 
+
