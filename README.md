@@ -11,7 +11,7 @@ Admin panel NEWS_BUZZ ->
 
 
 ### Full Demo
-[NEWS_BUZZ](http://www.youtube.com)
+[NEWS_BUZZ](http://www.youtube.com/watch?v=PhhAtY8i3hQ)
 
 ### Requirements 
 
